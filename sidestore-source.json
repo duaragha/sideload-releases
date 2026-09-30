@@ -1,0 +1,82 @@
+{
+  "name": "Raghav's Apps",
+  "identifier": "com.duaragha.sideload-releases",
+  "subtitle": "Atrium, Vantage, OpenWhispr and Locket.",
+  "description": "Install and update Raghav's iOS apps through SideStore. Add this source once; every new build shows up as a normal update.",
+  "iconURL": "https://raw.githubusercontent.com/duaragha/sideload-releases/main/icons/source.png",
+  "website": "https://github.com/duaragha/sideload-releases",
+  "tintColor": "#6366F1",
+  "featuredApps": [
+    "com.atrium.mobile",
+    "com.raghav.vantage",
+    "sh.owhispr.app",
+    "com.ragha.locket"
+  ],
+  "apps": [
+    {
+      "name": "Atrium",
+      "bundleIdentifier": "com.atrium.mobile",
+      "developerName": "Raghav Dua",
+      "subtitle": "Your photos, self-hosted.",
+      "localizedDescription": "Self-hosted photo and file library: timeline, albums, people, device backup.",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/sideload-releases/main/icons/atrium.png",
+      "tintColor": "#6366F1",
+      "category": "photo-video",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    },
+    {
+      "name": "Vantage",
+      "bundleIdentifier": "com.raghav.vantage",
+      "developerName": "Raghav Dua",
+      "subtitle": "Personal portfolio intelligence.",
+      "localizedDescription": "Private portfolio, research, goals, discovery, and trading intelligence.",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/sideload-releases/main/icons/vantage.png",
+      "tintColor": "#5EEAD4",
+      "category": "utilities",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    },
+    {
+      "name": "OpenWhispr",
+      "bundleIdentifier": "sh.owhispr.app",
+      "developerName": "Raghav Dua",
+      "subtitle": "Dictation everywhere.",
+      "localizedDescription": "Self-hosted dictation: instant local transcription, meeting notes, cross-device insights.",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/sideload-releases/main/icons/openwhispr.png",
+      "tintColor": "#4F7DF7",
+      "category": "productivity",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    },
+    {
+      "name": "Locket",
+      "bundleIdentifier": "com.ragha.locket",
+      "developerName": "Raghav Dua",
+      "subtitle": "Your life, kept close.",
+      "localizedDescription": "Personal life tracker: journal, reading, games, TV, workouts, PHEV, vault.",
+      "iconURL": "https://raw.githubusercontent.com/duaragha/sideload-releases/main/icons/locket.png",
+      "tintColor": "#BE5B6F",
+      "category": "lifestyle",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
