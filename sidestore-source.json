@@ -52,7 +52,16 @@
         "entitlements": [],
         "privacy": {}
       },
-      "versions": []
+      "versions": [
+        {
+          "version": "1.0.3.1",
+          "date": "2026-10-01T14:15:30.914000+00:00",
+          "localizedDescription": "Vantage iOS 1.0.3.1.",
+          "downloadURL": "https://github.com/duaragha/sideload-releases/releases/download/vantage-v1.0.3.1/Vantage-1.0.3.1-ios-unsigned.ipa",
+          "size": 3804870,
+          "minOSVersion": "14.0"
+        }
+      ]
     },
     {
       "name": "OpenWhispr",
