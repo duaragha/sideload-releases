@@ -27,7 +27,16 @@
         "entitlements": [],
         "privacy": {}
       },
-      "versions": []
+      "versions": [
+        {
+          "version": "15.24.35.35",
+          "date": "2026-10-01T13:58:36.600000+00:00",
+          "localizedDescription": "Atrium iOS 15.24.35.35.",
+          "downloadURL": "https://github.com/duaragha/sideload-releases/releases/download/atrium-v15.24.35.35/Atrium-15.24.35.35-ios-unsigned.ipa",
+          "size": 3168215,
+          "minOSVersion": "14.0"
+        }
+      ]
     },
     {
       "name": "Vantage",
