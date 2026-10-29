@@ -29,6 +29,14 @@
       },
       "versions": [
         {
+          "version": "20.26.47.36",
+          "date": "2026-10-29T16:02:26.556000+00:00",
+          "localizedDescription": "Atrium iOS 20.26.47.36.",
+          "downloadURL": "https://github.com/duaragha/sideload-releases/releases/download/atrium-v20.26.47.36/Atrium-20.26.47.36-ios-unsigned.ipa",
+          "size": 3170410,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "15.24.35.35",
           "date": "2026-10-01T13:58:36.600000+00:00",
           "localizedDescription": "Atrium iOS 15.24.35.35.",
