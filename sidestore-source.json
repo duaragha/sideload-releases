@@ -160,6 +160,14 @@
       },
       "versions": [
         {
+          "version": "1.31.1.96",
+          "date": "2026-11-08T04:04:16.953000+00:00",
+          "localizedDescription": "Locket iOS 1.31.1.96.",
+          "downloadURL": "https://github.com/duaragha/sideload-releases/releases/download/locket-v1.31.1.96/Locket-1.31.1.96-ios-unsigned.ipa",
+          "size": 81217800,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.29.1.94",
           "date": "2026-10-28T21:29:01.427000+00:00",
           "localizedDescription": "Locket iOS 1.29.1.94.",
