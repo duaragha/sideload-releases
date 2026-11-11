@@ -86,6 +86,14 @@
       },
       "versions": [
         {
+          "version": "1.0.3.7",
+          "date": "2026-11-11T19:37:13.588000+00:00",
+          "localizedDescription": "Vantage iOS 1.0.3.7.",
+          "downloadURL": "https://github.com/duaragha/sideload-releases/releases/download/vantage-v1.0.3.7/Vantage-1.0.3.7-ios-unsigned.ipa",
+          "size": 3804869,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.0.3.6",
           "date": "2026-11-11T17:06:57.001000+00:00",
           "localizedDescription": "Vantage iOS 1.0.3.6.",
